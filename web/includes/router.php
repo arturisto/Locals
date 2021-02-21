@@ -15,9 +15,9 @@ if (isset($_SESSION["redirect"]) && !empty($_SESSION["redirect"])) {
             include "user.php";
             break;
         default:
-            include "home.php";
+            include "signup.php";
             break;
     }
 } else {
-    include "home.php";
+    include "signup.php";
 }
