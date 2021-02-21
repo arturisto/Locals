@@ -1,6 +1,6 @@
 # Locals
 
-Welcome to this simple feedback apps.
+Welcome to this simple feedback app.
 
 #Stack
   FrontEnd - HTMl, CSS, JS, jQuery
