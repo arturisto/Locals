@@ -49,3 +49,5 @@ CREATE TABLE `users` (
 5. opne configs/config.php and change mysql to the new DB name  `define('DB_NAME', 'mysql');`
 
 6. Run app
+
+7. To create Admin user - run the app, sign up as a user and change the isAdmin paprameter in the DB using phpAdmin
